@@ -9,4 +9,6 @@ Change the theme to "darktable".
 
 Then, Copy your existing code and paste it into a notepad doc. Keep it safe as a backup. Then, paste the new CSS code from the file in this github repo (it is called "darktable dark theme CSS").  
 
+Note: don't forget about the Lightbulb toggle button in Darkroom view - you can click that to temporarily show grey + white area around your image (useful for setting exposure correctly). Then, toggle the lightbulb icon off to have a more pleasant editing experience. 
+
 Enjoy the dark side!
