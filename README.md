@@ -7,6 +7,6 @@ Go to the general tab.
 
 Change the theme to "darktable". 
 
-Then, Copy your existing code and paste it into a notepad doc. Keep it safe as a backup. Then, paste the new CSS code from this github repo. 
+Then, Copy your existing code and paste it into a notepad doc. Keep it safe as a backup. Then, paste the new CSS code from the file in this github repo (it is called "darktable dark theme CSS").  
 
 Enjoy the dark side!
