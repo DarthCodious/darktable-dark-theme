@@ -1,0 +1,28 @@
+/* Enter CSS theme tweaks here */
+
+@define-color thumbnail_bg_color @grey_05; /* near black background */
+@define-color border_color @grey_00;       /* true black border */
+@define-color thumbnail_hover_bg_color @grey_10;
+@define-color thumbnail_selected_bg_color @grey_15;
+
+
+@define-color lighttable_preview_bg_color @grey_05;
+@define-color darkroom_bg_color @grey_05;
+@define-color lighttable_bg_color @grey_05;
+
+
+/* Lighttable main background */
+#thumbs-view {
+    background-color: #111; /* near black */
+}
+
+/* Border around thumbnails in grid */
+#thumbs-view flowboxchild {
+    background-color: #111;
+    border: 1px solid #111;
+}
+
+/* Background around single image preview in Lighttable */
+#preview {
+    background-color: #111;
+}
